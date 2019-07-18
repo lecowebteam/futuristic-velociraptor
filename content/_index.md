@@ -87,6 +87,31 @@ sections:
     subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
     title: Welding Guns and Torches
     type: posts
+  - component: features.html
+    features:
+      - description: >-
+          * ![SODA
+          STREAM](/images/one_touch_black_f9fc0fd4-3932-4653-9667-06a2f188fb48.png
+          "Soda Stream")
+
+          * Sparkling water maker
+
+          * Carbonating cylinder
+
+          * 1L bottle x3
+
+          * 0.5 liter bottles x2
+
+          * Lemon Fruit Drops
+
+          * Free shipping
+
+          * 3 year warranty
+        icon:
+          enabled: false
+        title: HYDRATION PACK
+    section_id: features
+    type: features
 menu:
   main:
     name: Home
